@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
+I am an undergraduate student at Shanghai Jiao Tong University
