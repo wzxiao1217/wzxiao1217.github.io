@@ -86,8 +86,8 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : ## "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ## "http://yourfullgooglescholarurl.com"
-  email            : "harrychenzh@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=FjV_ge8AAAAJ&hl=zh-CN&oi=ao"
+  email            : "zhchen0319@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
