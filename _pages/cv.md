@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-Candidate for B.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022(expected)
-* GPA: 91/100; Rank: 2/72
-* Selected courses:  Advanced Medical Imaging and Intelligent Navigation(A+), Artificial Intelligence and Medical Engineering (A), Machine Learning for Biomedical Signal Processing(A), Biomedical Image Processing (A+), Mechanisms and Control of Medical Robotics (A)
+* Candidate for B.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022(expected)
 
 Work experience
 ======
