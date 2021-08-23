@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://zihaochen0319.github.io/files/CV_zihaochen_0801.pdf)
+[Curriculum Vitae](https://zihaochen0319.github.io/files/cv_zihao_0823.pdf)
 
 ## Education
 * Shanghai Jiao Tong University, 2018 - 2022(expected)
