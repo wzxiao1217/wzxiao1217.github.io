@@ -10,8 +10,8 @@ redirect_from:
 [Curriculum Vitae](https://zihaochen0319.github.io/files/CV_zihaochen_0801.pdf)
 
 ## Education
-* Candidate for B.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2018 - 2022(expected)
-  * Zhiyuan Honors Program
+* Shanghai Jiao Tong University, 2018 - 2022(expected)
+  * Candidate for B.Eng. in Biomedical Engineering, Zhiyuan Honors Program
   * GPA: 91/100, Rank: 2/72
 
 ## Research Experience
