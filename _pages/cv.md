@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* Candidate for B.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022(expected)
+  * GPA: 91/100; Rank: 2/72
+  * Selected courses:  Advanced Medical Imaging and Intelligent Navigation(A+), Artificial Intelligence and Medical Engineering (A), Machine Learning for Biomedical Signal Processing(A), Biomedical Image Processing (A+), Mechanisms and Control of Medical Robotics (A)
 
 Work experience
 ======
