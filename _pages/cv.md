@@ -13,14 +13,22 @@ redirect_from:
 * Candidate for B.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022(expected)
 
 ## Research Experience
-* Research intern, Shanghai Artificial Intelligence Laboratory
+* Shanghai Artificial Intelligence Laboratory, July 2021 - present
+  * Research intern, remotely supervised by Prof. Qi Dou
   * Develop algorithms for detection and segmentation of cerebral microbleeds in MRI.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Institute of Medical Robotics, SJTU, Nov. 2020 - June 2021
+  * Undergraduate Research Assistant, supervised by Prof. Guoyan Zheng
+  * Reproduced several methods for 3D reconstruction of knee bones from multi-planar X-ray images, including U-Net like reconstruction network and patient-specific deep network.
+  * Built a statistical deformable model of femur and incorporated the shape prior information into deep learning based registration framework. The proposed method achieved 0.94 average Dice score, while it had less parameters and much smoother deformation field.
+  * Established a deep learning based unsupervised joint affine and deformable registration framework for femur and pelvis registration, achieving 0.96 and 0.92 Dice performance.
+
+* Med-X Research Institute, SJTU, July 2019 - Oct. 2020
+  * Undergraduate Research Assistant, supervised by Prof. Xiaohua Qian
+  * Implemented and improved a kernel penalized SVM based feature selection model to predict transition from mild cognitive impairment to Alzheimer’s disease in 3 years, achieving 0.82 balanced accuracy.
+  * Developed feature selection models based on prior knowledge for identifying DNA methylation biomarkers in Alzheimer's disease.
+  * Designed a uniform spiral transformation method for pancreatic cancer segmentation, applying 3D contextual information in a 2D network. The proposed segmentation framework achieved a state-of-the-art 0.65 Dice performance.
+
 Skills
 ======
 * Skill 1
