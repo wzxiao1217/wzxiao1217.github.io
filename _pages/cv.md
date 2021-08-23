@@ -28,4 +28,4 @@ redirect_from:
 * Tools: Pytorch, Latex, Git
   
 ## Honors and Awards
-* Zhiyuan Honor Scholarship (5%), 2019, 2020
+* 2019, 2020, Zhiyuan Honor Scholarship (5%)
