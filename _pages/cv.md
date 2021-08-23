@@ -12,12 +12,9 @@ redirect_from:
 ## Education
 * Candidate for B.Eng. in Biomedical Engineering, Shanghai Jiao Tong University, 2022(expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Experience
+* Research intern, Shanghai Artificial Intelligence Laboratory
+  * Develop algorithms for detection and segmentation of cerebral microbleeds in MRI.
 
 * Fall 2015: Research Assistant
   * Github University
