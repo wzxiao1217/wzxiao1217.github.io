@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://github.com/ZihaoChen0319/zihaochen0319.github.io/sup_materials/CV_zihaochen_0801.pdf)
+[Curriculum Vitae](https://zihaochen0319.github.io/files/example.pdf)
 
 ## Education
 * Candidate for B.Eng. in Biomedical Engineering, Zhiyuan Honors Program, Shanghai Jiao Tong University, 2018 - 2022(expected)
