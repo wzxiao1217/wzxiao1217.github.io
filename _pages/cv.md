@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * Shanghai Jiao Tong University, 2018 - 2022(expected)
   * Candidate for B.Eng. in Biomedical Engineering, Zhiyuan Honors Program
-  * GPA: 91/100, Rank: 2/72
+  * GPA: 91/100; Rank: 2/72
 
 ## Research Experience
 * Shanghai Artificial Intelligence Laboratory, July 2021 - present
