@@ -28,4 +28,4 @@ redirect_from:
 * Tools: Pytorch, Latex, Git
   
 ## Honors and Awards
-* Currently signed in to 43 different slack teams
+* Zhiyuan Honor Scholarship (5%), 2019, 2020
