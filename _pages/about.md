@@ -1,12 +1,12 @@
-<!-- ---
-permalink: /
-title: "About"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---- -->
+[^_^]:---
+[^_^]:permalink: /
+[^_^]:title: "About"
+[^_^]:excerpt: "About me"
+[^_^]:author_profile: true
+[^_^]:redirect_from: 
+[^_^]:  - /about/
+[^_^]:  - /about.html
+[^_^]:---
 
 ---
 layout: archive
