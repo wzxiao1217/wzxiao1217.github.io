@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Biography"
 excerpt: "Zihao"
 permalink: /
 author_profile: true
