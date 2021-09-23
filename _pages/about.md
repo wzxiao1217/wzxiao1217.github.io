@@ -12,6 +12,7 @@ redirect_from:
 
 I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University. My research interests lie on medical image analysis and computer vision.
 
+<a href="#" class=".notice--danger">I am actively looking for a PhD position!</a>
 <font color="#dd0000">I am actively looking for a PhD position!</font>
 
 This website is still under construction.
