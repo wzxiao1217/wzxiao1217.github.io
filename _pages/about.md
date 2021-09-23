@@ -14,7 +14,7 @@ I am currently an undergraduate student in School of Biomedical Engineering, Sha
 
 <font color="#dd0000">I am actively looking for a PhD position!</font>
 
-This website is still under construction。
+This website is still under construction.
 
 ## Education Experience
 * Shanghai Jiao Tong University (SJTU), Sep. 2018 - June 2022 (Expected)
