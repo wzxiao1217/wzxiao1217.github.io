@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
   - /about.md
 ---
+
 <h1 class="project-name">{{ page.title | default: site.title }}</h1>
 
 I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University. My research interests lie on medical image analysis and computer vision.
