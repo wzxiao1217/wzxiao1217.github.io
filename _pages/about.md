@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Biography"
 excerpt: "Zihao Chen's Homepage"
 permalink: /
