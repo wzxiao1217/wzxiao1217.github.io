@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
   - /about.md
 ---
+<a href="/" title="HOME - HTML Code Tutorials">Click to visit home page.</a>
 
 I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University. My research interests lie on medical image analysis and computer vision.
 
