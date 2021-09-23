@@ -12,10 +12,14 @@ redirect_from:
 
 I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University. My research interests lie on medical image analysis and computer vision.
 
-This website is still under construction!
+<font color="#660000">I am actively looking for a PhD position!</font>
+
+This website is still under construction。
+
 ## Education Experience
 * Shanghai Jiao Tong University (SJTU), Sep. 2018 - June 2022 (Expected)
   * Candidate for B.S. in Biomedical Engineering, Zhiyuan Honors Program
+
 ## Research Experience
 * Shanghai Artificial Intelligence Laboratory, July 2021 - present
   * Research intern, remotely supervised by Prof. Qi Dou
