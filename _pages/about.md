@@ -1,5 +1,4 @@
 ---
-path: ""
 layout: archive
 title: "Biography"
 excerpt: "Zihao Chen's Homepage"
