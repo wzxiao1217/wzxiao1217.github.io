@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Biography"
+title: ""
 excerpt: "Zihao Chen's Homepage"
 permalink: /
 author_profile: true
 redirect_from:
-  - /
   - /about/
   - /about.html
   - /about.md
