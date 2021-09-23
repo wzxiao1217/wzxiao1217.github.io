@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Zihao Chen Homepage"
-excerpt: "Zihao Chen"
+title: "Biography"
+excerpt: "Zihao Chen's Homepage"
 permalink: /
 author_profile: true
 redirect_from:
