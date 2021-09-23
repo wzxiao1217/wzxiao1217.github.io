@@ -10,6 +10,22 @@ redirect_from:
   - /about.md
 ---
 
-I am an undergraduate student at Shanghai Jiao Tong University.
+I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University.
+
+My research interests lie on medical image analysis and computer vision.
 
 This website is still under construction!
+
+# Education Experience
+* Shanghai Jiao Tong University, 2018 - 2022(expected)
+  * Candidate for B.S. in Biomedical Engineering, Zhiyuan Honors Program
+
+# Research Experience
+* Shanghai Artificial Intelligence Laboratory, July 2021 - present
+  * Research intern, remotely supervised by Prof. Qi Dou
+
+* Institute of Medical Robotics, SJTU, Nov. 2020 - June 2021
+  * Undergraduate Research Assistant, supervised by Prof. Guoyan Zheng
+
+* Med-X Research Institute, SJTU, July 2019 - Oct. 2020
+  * Undergraduate Research Assistant, supervised by Prof. Xiaohua Qian
