@@ -17,7 +17,7 @@ My research interests lie on medical image analysis and computer vision.
 This website is still under construction!
 
 # Education Experience
-* Shanghai Jiao Tong University, 2018 - 2022(expected)
+* Shanghai Jiao Tong University (SJTU), Sep. 2018 - June 2022 (Expected)
   * Candidate for B.S. in Biomedical Engineering, Zhiyuan Honors Program
 
 # Research Experience
