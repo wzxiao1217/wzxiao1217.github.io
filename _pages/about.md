@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Biography"
-excerpt: "Zihao Chen's Homepage"
+excerpt: "Zihao"
 permalink: /
 author_profile: true
 redirect_from:
@@ -10,7 +10,6 @@ redirect_from:
   - /about.md
 ---
 
-<title>Zihao Chen's Homepage</title>
 I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University. My research interests lie on medical image analysis and computer vision.
 
 This website is still under construction!
