@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Resume"
+    url: /resume
 
 #   - title: "Publications"
 #     url: /publications/

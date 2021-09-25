@@ -4,24 +4,24 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
+  // float: left;
+  text-align: center;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
   /* sticky footer fix start */
   position: absolute;
-  bottom: 0em;
+  bottom: 0;
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  animation-delay: 0.45s;
+  // background-color: $footer-background-color;
 
   footer {
     @include clearfix;
@@ -49,7 +49,7 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $gray, 25%);
+    color: $text-color;
   }
 }
 
@@ -90,3 +90,4 @@
     }
   }
 }
+

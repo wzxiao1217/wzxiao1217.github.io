@@ -1,12 +1,28 @@
 ---
-layout: archive
+layout: home
 title: ""
 excerpt: "Zihao's Homepage"
 permalink: /
 author_profile: true
+feature_row:
+  - image_path: unsplash/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: unsplash/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+  - image_path: unsplash/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+modified: 2021-09-25
 ---
 
-# Biograghy
 I am currently an undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University. My research interests lie on medical image analysis and computer vision.
 
 <font color="#dd0000">I am actively looking for a PhD position!</font>
@@ -14,7 +30,7 @@ I am currently an undergraduate student in School of Biomedical Engineering, Sha
 ## News
 * No news is the best news!
 
-## Publication
+## Publications
 <table id="tbPublications" width="100%">
     <tbody>
     <tr>
@@ -47,4 +63,8 @@ I am currently an undergraduate student in School of Biomedical Engineering, Sha
 </tbody></table>
 
 ## Selected Projects
+{% include feature_row %}
 
+## Honors and Awards
+* 2019, 2020 Zhiyuan Honor Scholarship (Top 5%)
+* 2019, 2020 Second-class Scholarship (Top 10%)
