@@ -61,7 +61,7 @@ I am currently an undergraduate student in School of Biomedical Engineering, Sha
         <td width="270">
         <img src="images/papers/img_paper3.png">
         </td>
-        <td><b>DeepASDM: a Deep Learning Framework for Affine and Deformable Image Registration Incorporating aStatistical Deformation Model.</b>[<a href="https://ieeexplore.ieee.org/abstract/document/9508553">paper</a>]<br>
+        <td><b>DeepASDM: a Deep Learning Framework for Affine and Deformable Image Registration Incorporating a Statistical Deformation Model.</b>[<a href="https://ieeexplore.ieee.org/abstract/document/9508553">paper</a>]<br>
         Xiaoru Gao, Jeroen Van Houtte, <b>Zihao Chen</b>, Guoyan Zheng<br>
         IEEE EMBS International Conference on Biomedical and Health Informatics (<b>BHI</b>), 2021<br>
         </td>
