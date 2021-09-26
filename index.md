@@ -41,7 +41,7 @@ feature_row:
 ---
 
 <h1>Biograghy</h1>
-I am currently aa fourth year undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU). And I am also a menmber of Zhiyuan Honors Program of Engineering, an elite student program in SJTU. During the university period, I have some research experience under the supervision of Prof. Qi Dou, Prof. Guoyan Zheng and Prof. Xiaohua Qian.
+I am currently a fourth year undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU). And I am also a member of Zhiyuan Honors Program of Engineering, an elite student program in SJTU. During the university period, I have some research experience under the supervision of Prof. Qi Dou, Prof. Guoyan Zheng and Prof. Xiaohua Qian.
 
 My research interests lie on medical image analysis and computer vision, including segmentation, registration and detection related to medical topics and deep learning. Recently, I mainly focus on developing generalisable model that can be applied across clinical centers.
 
