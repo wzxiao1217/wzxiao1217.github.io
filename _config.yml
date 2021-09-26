@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihao Homepage"
+title                    : "Zihao Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Zihao Chen"
 description              : &description "Undergraduate student, School of Biomedical Engineering, Shanghai Jiao Tong University"
