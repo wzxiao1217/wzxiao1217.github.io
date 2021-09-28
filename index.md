@@ -36,7 +36,11 @@ My research interests lie on biomedical image analysis and computer vision, incl
 <font color="#dd0000">I am actively looking for a PhD position!</font>
 
 <h1 class="body">News</h1>
-* I won the 3<sup>rd</sup> prize in the <a href=https://valdo.grand-challenge.org/>VALDO 2021 Challenge (MICCAI 2021)</a>. The codes are already released <a href=https://github.com/ZihaoChen0319/CMB-Segmentation>here</a>
+<ul>
+  <li>
+    [Sep. 2021] I won the 3<sup>rd</sup> prize in the <a href=https://valdo.grand-challenge.org/>VALDO 2021 Challenge (MICCAI 2021)</a>. The codes are already released <a href=https://github.com/ZihaoChen0319/CMB-Segmentation>here</a>.
+  </li>
+</ul>
 
 <h1 class="body">Publications</h1>
 <table id="tbPublications" width="100%">
