@@ -9,19 +9,7 @@ header:
   overlay_image: /unsplash/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Hello world!"
-date: 2021-09-25 23:47:00
-# feature_row1:
-#   - image_path: papers/img_paper1.png
-#     title: "Model-driven Deep Learning Method for Pancreatic Cancer Segmentation Based on Spiral-transformation."
-#     excerpt: "Xiahan Chen, <b>Zihao Chen</b>, Jun Li, Yu-Dong Zhang, Xiaozhu Lin, Xiaohua Qian <br> IEEE Transactions on Medical Imaging (<b>TMI</b>), 2021 <br>"
-# feature_row2:
-#   - image_path: papers/img_paper2.png
-#     title: "An End-to-end Unsupervised Affine and Deformable Registration Framework for Multi-structure Medical Image Registration."
-#     excerpt: "<b>Zihao Chen</b>, Xiaoru Gao, Guoyan Zheng<br> International Congress and Exhibition of Computer Assisted Radiology and Surgery (<b>CARS</b>), 2021 [Abstract]"
-# feature_row3:
-#   - image_path: papers/img_paper3.png
-#     title: "DeepASDM: a Deep Learning Framework for Affine and Deformable Image Registration Incorporating aStatistical Deformation Model."
-#     excerpt: "Xiaoru Gao, Jeroen Van Houtte, <b>Zihao Chen</b>, Guoyan Zheng<br> IEEE EMBS International Conference on Biomedical and Health Informatics (<b>BHI</b>), 2021"
+modified: 2021-09-25 23:47:00
 feature_row:
   - image_path: unsplash/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -41,19 +29,16 @@ feature_row:
 ---
 
 <h1>Biograghy</h1>
-I am currently aa fourth year undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU). And I am also a menmber of Zhiyuan Honors Program of Engineering, an elite student program in SJTU. During the university period, I have some research experience under the supervision of Prof. Qi Dou, Prof. Guoyan Zheng and Prof. Xiaohua Qian.
+I am currently a fourth year undergraduate student in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU). And I am also a member of Zhiyuan Honors Program of Engineering, an elite student program in SJTU. During the university period, I have some research experience under the supervision of Prof. Qi Dou, Prof. Guoyan Zheng and Prof. Xiaohua Qian.
 
-My research interests lie on medical image analysis and computer vision, including segmentation, registration and detection related to medical topics and deep learning. Recently, I mainly focus on developing generalisable model that can be applied across clinical centers.
+My research interests lie on biomedical image analysis and computer vision, including segmentation, registration and detection related to medical topics and deep learning. Recently, I mainly focus on developing generalisable model that can be applied across clinical centers.
 
 <font color="#dd0000">I am actively looking for a PhD position!</font>
 
 <h1 class="body">News</h1>
-* No news is the best news!
+* I won the 3<sup>rd</sup> prize in the <a href=https://valdo.grand-challenge.org/>VALDO 2021 Challenge (MICCAI 2021)</a>. The codes are already released <a href=https://github.com/ZihaoChen0319/CMB-Segmentation>here</a>
 
 <h1 class="body">Publications</h1>
-<!-- {% include feature_row id="feature_row3" type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row1" type="left" %} -->
 <table id="tbPublications" width="100%">
     <tbody>
     <tr>
@@ -89,5 +74,5 @@ My research interests lie on medical image analysis and computer vision, includi
 {% include feature_row %}
 
 <h1 class="body">Honors and Awards</h1>
-* 2019, 2020 Zhiyuan Honor Scholarship (Top 5%)
-* 2019, 2020 Second-class Scholarship (Top 10%)
+* 2019, 2020, 2021 Zhiyuan Honor Scholarship (Top 5%)
+* 2019, 2020 SJTU Undergraduate Excellent Scholarship (Top 10%)
