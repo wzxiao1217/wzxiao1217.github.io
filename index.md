@@ -36,7 +36,7 @@ My research interests lie on biomedical image analysis and computer vision, incl
 <font color="#dd0000">I am actively looking for a PhD position!</font>
 
 <h1 class="body">News</h1>
-* [Sep. 2021] I won the 3<sup>rd</sup> prize in the <a href="https://valdo.grand-challenge.org">VALDO 2021 Challenge (MICCAI 2021)</a>. The codes are already released <a href="https://github.com/ZihaoChen0319/CMB-Segmentation">here</a>.
+* [Sep. 2021] I won the 3<sup>rd</sup> prize in the <a href="https://valdo.grand-challenge.org">VALDO 2021 Challenge (MICCAI 2021)</a>. The codes are already released <a href="https://github.com/wzxiao1217/CMB-Segmentation">here</a>.
 
 <h1 class="body">Publications</h1>
 <table id="tbPublications" width="100%">
@@ -46,7 +46,7 @@ My research interests lie on biomedical image analysis and computer vision, incl
         <img src="images/papers/img_paper3.png">
         </td>
         <td><b>DeepASDM: a Deep Learning Framework for Affine and Deformable Image Registration Incorporating a Statistical Deformation Model.</b>[<a href="https://ieeexplore.ieee.org/abstract/document/9508553">paper</a>]<br>
-        Xiaoru Gao, Jeroen Van Houtte, <b>Zihao Chen</b>, Guoyan Zheng<br>
+        Xiaoru Gao, Jeroen Van Houtte, <b>Zixiao Wang</b>, Guoyan Zheng<br>
         IEEE EMBS International Conference on Biomedical and Health Informatics (<b>BHI</b>), 2021<br>
         </td>
     </tr>
@@ -55,7 +55,7 @@ My research interests lie on biomedical image analysis and computer vision, incl
         <img src="images/papers/img_paper2.png">
         </td>
         <td><b>An End-to-end Unsupervised Affine and Deformable Registration Framework for Multi-structure Medical Image Registration.</b><br>
-        <b>Zihao Chen</b>, Xiaoru Gao, Guoyan Zheng<br>
+        <b>Zixiao Wang</b>, Xiaoru Gao, Guoyan Zheng<br>
         International Congress and Exhibition of Computer Assisted Radiology and Surgery (<b>CARS</b>), 2021 [Abstract]<br>
         </td>
     </tr>
@@ -64,7 +64,7 @@ My research interests lie on biomedical image analysis and computer vision, incl
         <img src="images/papers/img_paper1.png">
         </td>
         <td><b>Model-driven Deep Learning Method for Pancreatic Cancer Segmentation Based on Spiral-transformation.</b>[<a href="https://ieeexplore.ieee.org/abstract/document/9512056">paper</a>]<br>
-        Xiahan Chen, <b>Zihao Chen</b>, Jun Li, Yu-Dong Zhang, Xiaozhu Lin, Xiaohua Qian <br>
+        Xiahan Chen, <b>Zixiao Wang</b>, Jun Li, Yu-Dong Zhang, Xiaozhu Lin, Xiaohua Qian <br>
         IEEE Transactions on Medical Imaging (<b>TMI</b>), 2021 <br>
         </td>
     </tr>
